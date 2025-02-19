@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1739984369 source:c:\users\user\desktop\c++\projectgame\main.cpp
+	<iostream>
+	"OANTUXI.h"
+	"XUCXAC.H"
+
+1739983918 c:\users\user\desktop\c++\projectgame\oantuxi.h
+	<iostream>
+
+1739983918 source:c:\users\user\desktop\c++\projectgame\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1739984369 source:c:\users\user\desktop\c++\projectgame\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+
+1739983918 c:\users\user\desktop\c++\projectgame\xucxac.h
+	<iostream>
+
