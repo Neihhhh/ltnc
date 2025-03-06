@@ -49,3 +49,28 @@
 	<cstdlib>
 	<ctime>
 
+1740991151 source:c:\users\user\desktop\c++\funrace_0.1\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1740991088 c:\users\user\desktop\c++\funrace_0.1\oantuxi.h
+	<iostream>
+
+1740993951 source:c:\users\user\desktop\c++\funrace_0.1\main.cpp
+	<iostream>
+	"OANTUXI.h"
+	"XUCXAC.H"
+	<cstdlib>
+	<ctime>
+
+1740993740 c:\users\user\desktop\c++\funrace_0.1\xucxac.h
+	<iostream>
+
+1740993951 source:c:\users\user\desktop\c++\funrace_0.1\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+

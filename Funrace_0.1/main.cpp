@@ -37,41 +37,20 @@ int main(){
     string rollButtonComputer;
     while(computerStep<Distance&&playerStep<Distance){
         if(ResultOTX==1){
-            //ngu?i l?c
-            cout<<"Press 0 to roll the dice: ";
-            cin>>rollButtonPlayer;
+            //người lắc
             srand(time(0));
-            playerDiceNumber=rollDice();
-            cout<<"Your dice number: "<<playerDiceNumber<<endl;
-            playerStep+=playerDiceNumber;
-            cout<<"PLAYER  : ";
-            printCurrentRace(playerRace,playerStep,Distance);
+            playerTurn(Distance,playerRace,playerStep,playerDiceNumber,rollButtonPlayer);
             if (playerStep >= Distance) break;
-
             //máy l?c
-            computerDiceNumber=rollDice();
-            cout<<"Computer's dice number: "<<computerDiceNumber<<endl;
-            computerStep+=computerDiceNumber;
-            cout<<"COMPUTER: ";
-            printCurrentRace(computerRace,computerStep,Distance);
+            computerTurn(Distance,computerRace,computerStep,computerDiceNumber,rollButtonComputer);
         } else {
             //máy l?c
             srand(time(0));
-            computerDiceNumber=rollDice();
-            cout<<"Computer's dice number: "<<computerDiceNumber<<endl;
-            computerStep+=computerDiceNumber;
-            cout<<"COMPUTER: ";
-            printCurrentRace(computerRace,computerStep,Distance);
+            computerTurn(Distance,computerRace,computerStep,computerDiceNumber,rollButtonComputer);
             if (computerStep >= Distance) break;
-
+            playerTurn(Distance,playerRace,playerStep,playerDiceNumber,rollButtonPlayer);
             //ngu?i lác
-            cout<<"Press 0 to roll the dice: ";
-            cin>>rollButtonPlayer;
-            playerDiceNumber=rollDice();
-            cout<<"Your dice number: "<<playerDiceNumber<<endl;
-            playerStep+=playerDiceNumber;
-            cout<<"PLAYER  : ";
-            printCurrentRace(playerRace,playerStep,Distance );
+
         }
     }
     printResult2( computerStep, playerStep, Distance);

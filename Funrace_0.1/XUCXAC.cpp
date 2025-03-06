@@ -3,7 +3,6 @@
 #include<cstdlib>
 #include<ctime>
 using namespace std;
-
 void printRace(char a[],int Distance){
     for(int i=0;i<Distance;i++){
         a[i]='_';
@@ -39,5 +38,21 @@ void printCurrentRace(char a[], int Step, int Distance){
     }
     cout<<"!";
     cout<<endl;
+}
+void playerTurn(int Distance,char playerRace[],int &playerStep, int &playerDiceNumber,string &rollButtonPlayer){
+    cout<<"Press 0 to roll the dice: ";
+    cin>>rollButtonPlayer;
+    playerDiceNumber=rollDice();
+    cout<<"Your dice number: "<<playerDiceNumber<<endl;
+    playerStep+=playerDiceNumber;
+    cout<<"PLAYER  : ";
+    printCurrentRace(playerRace,playerStep,Distance);
+}
+void computerTurn(int Distance,char computerRace[],int &computerStep,int &computerDiceNumber,string &rollButtonComputer){
+    computerDiceNumber=rollDice();
+    cout<<"Computer's dice number: "<<computerDiceNumber<<endl;
+    computerStep+=computerDiceNumber;
+    cout<<"COMPUTER: ";
+    printCurrentRace(computerRace,computerStep,Distance);
 }
 
