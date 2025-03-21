@@ -145,3 +145,52 @@
 	<ctime>
 	"graphic.h"
 
+1741356900 source:c:\users\user\desktop\c++\funrace_0.3\graphic.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+
+1741356900 c:\users\user\desktop\c++\funrace_0.3\graphic.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1741882982 source:c:\users\user\desktop\c++\funrace_0.3\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<SDL_ttf.h>
+
+1741357389 c:\users\user\desktop\c++\funrace_0.3\oantuxi.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1742479252 source:c:\users\user\desktop\c++\funrace_0.3\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+
+1741961726 c:\users\user\desktop\c++\funrace_0.3\xucxac.h
+	<iostream>
+
+1742544244 source:c:\users\user\desktop\c++\funrace_0.3\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	"OANTUXI.h"
+	"XUCXAC.h"
+

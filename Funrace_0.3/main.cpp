@@ -60,8 +60,7 @@ int main(int argc, char* argv[]) {
     int playerStep=0;
     int computerStep=0;
     renderXX(playerStep,computerStep,resultOTX);
-    while(running){
-
+    while (running) {
         while (SDL_PollEvent(&e)) {
             if (e.type == SDL_QUIT) running = false;
 
@@ -69,39 +68,36 @@ int main(int argc, char* argv[]) {
                 if (e.key.keysym.sym == SDLK_SPACE) {
                     int playerDiceNumber = rollDice();
                     playerStep += playerDiceNumber;
-                    renderDiceNumber( playerDiceNumber);
-                    SDL_Delay(1000);
-                    resultOTX = 0;  // Chuyển lượt cho máy
-                    renderXX(playerStep,computerStep,resultOTX);
-                    if(playerStep>=Distance-1 || computerStep>=Distance-1){
-                        renderResult2( playerStep, computerStep);
-                        running=false;
-                    }
+                    renderDiceNumber(playerDiceNumber);
+                    SDL_Delay(500);
+                    resultOTX = 0;
+                    renderXX(playerStep, computerStep, resultOTX);
                 }
             }
         }
-
-        if (resultOTX == 0) {
-            SDL_Delay(1000);
-            int computerDiceNumber = rollDice();
-            computerStep += computerDiceNumber;
-            renderDiceNumber( computerDiceNumber);
-            SDL_Delay(1000);
-            resultOTX = 1;  // Chuyển lượt lại cho người chơi
-            renderXX(playerStep,computerStep,resultOTX);
-            if(playerStep>=Distance-1 || computerStep>=Distance-1){
-                renderResult2( playerStep, computerStep);
-                running=false;
-            }
+        if (playerStep >= Distance - 1) {
+            renderResult2(playerStep, computerStep);
+            break;
         }
 
-    }
+        if (resultOTX == 0) { // Máy đi
+            SDL_Delay(500);
+            int computerDiceNumber = rollDice();
+            computerStep += computerDiceNumber;
+            renderDiceNumber(computerDiceNumber);
+            SDL_Delay(500);
+            resultOTX = 1;
+            renderXX(playerStep, computerStep, resultOTX);
+        }
 
-    SDL_DestroyRenderer(renderer);
+        if (computerStep >= Distance - 1 ) {
+            renderResult2(playerStep, computerStep);
+            break;
+        }
+    }
+     SDL_DestroyRenderer(renderer);
     SDL_DestroyWindow(window);
     TTF_CloseFont(font);
     TTF_Quit();
     SDL_Quit();
 }
-
-

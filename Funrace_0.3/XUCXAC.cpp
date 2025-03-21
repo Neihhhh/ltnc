@@ -79,7 +79,7 @@ void renderResult2(int playerStep,int computerStep){
         renderText("You lost!",460,400,{255,0,0});
     }
     SDL_RenderPresent(renderer);
-    SDL_Delay(1000);
+    SDL_Delay(500);
 }
 const int numberDice[]={1,2,3,4,5,6};
 int rollDice(){
