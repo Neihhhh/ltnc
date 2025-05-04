@@ -1,0 +1,502 @@
+# depslib dependency file v1.0
+1740070478 source:c:\users\user\desktop\c++\projectgame\main.cpp
+	<iostream>
+	"OANTUXI.h"
+	"XUCXAC.H"
+	<cstdlib>
+	<ctime>
+
+1740063665 c:\users\user\desktop\c++\projectgame\oantuxi.h
+	<iostream>
+
+1740063635 source:c:\users\user\desktop\c++\projectgame\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1740070278 source:c:\users\user\desktop\c++\projectgame\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+
+1740068680 c:\users\user\desktop\c++\projectgame\xucxac.h
+	<iostream>
+
+1740991052 source:c:\users\user\desktop\c++\funrace demo\main.cpp
+	<iostream>
+	"OANTUXI.h"
+	"XUCXAC.H"
+	<cstdlib>
+	<ctime>
+
+1740991088 c:\users\user\desktop\c++\funrace demo\oantuxi.h
+	<iostream>
+
+1740991543 c:\users\user\desktop\c++\funrace demo\xucxac.h
+	<iostream>
+
+1740991151 source:c:\users\user\desktop\c++\funrace demo\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1740990107 source:c:\users\user\desktop\c++\funrace demo\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+
+1741357314 source:c:\users\user\desktop\c++\funrace_0.1\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<SDL_ttf.h>
+
+1741357389 c:\users\user\desktop\c++\funrace_0.1\oantuxi.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1741357314 source:c:\users\user\desktop\c++\funrace_0.1\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	"OANTUXI.h"
+
+1741357566 c:\users\user\desktop\c++\funrace_0.1\xucxac.h
+	<iostream>
+
+1741357566 source:c:\users\user\desktop\c++\funrace_0.1\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+
+1741356900 c:\users\user\desktop\c++\funrace_0.1\graphic.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1741356900 source:c:\users\user\desktop\c++\funrace_0.1\graphic.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+
+1741356900 source:c:\users\user\desktop\c++\funrace_0.2\graphic.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+
+1741356900 c:\users\user\desktop\c++\funrace_0.2\graphic.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1741961726 source:c:\users\user\desktop\c++\funrace_0.2\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	"OANTUXI.h"
+	"XUCXAC.h"
+
+1741357389 c:\users\user\desktop\c++\funrace_0.2\oantuxi.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1741961726 c:\users\user\desktop\c++\funrace_0.2\xucxac.h
+	<iostream>
+
+1741882982 source:c:\users\user\desktop\c++\funrace_0.2\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<SDL_ttf.h>
+
+1741961781 source:c:\users\user\desktop\c++\funrace_0.2\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+
+1741356900 source:c:\users\user\desktop\c++\funrace_0.3\graphic.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+
+1741356900 c:\users\user\desktop\c++\funrace_0.3\graphic.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1742546458 source:c:\users\user\desktop\c++\funrace_0.3\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<SDL_ttf.h>
+
+1741357389 c:\users\user\desktop\c++\funrace_0.3\oantuxi.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1742562805 source:c:\users\user\desktop\c++\funrace_0.3\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+
+1742562805 c:\users\user\desktop\c++\funrace_0.3\xucxac.h
+	<iostream>
+
+1742555580 source:c:\users\user\desktop\c++\funrace_0.3\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	"OANTUXI.h"
+	"XUCXAC.h"
+
+1742718685 source:c:\users\user\desktop\c++\funrace_1.0\graphic.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL_image.h>
+
+1742717595 c:\users\user\desktop\c++\funrace_1.0\graphic.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1743177371 source:c:\users\user\desktop\c++\funrace_1.0\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	"OANTUXI.h"
+	"XUCXAC.h"
+	<SDL_image.h>
+
+1742721676 c:\users\user\desktop\c++\funrace_1.0\oantuxi.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL.h>
+
+1743177257 c:\users\user\desktop\c++\funrace_1.0\xucxac.h
+	<iostream>
+	<SDL.h>
+
+1743155764 source:c:\users\user\desktop\c++\funrace_1.0\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1743177604 source:c:\users\user\desktop\c++\funrace_1.0\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+
+1743238077 source:c:\users\user\desktop\c++\funrace_1.1\graphic.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL_image.h>
+
+1743238077 c:\users\user\desktop\c++\funrace_1.1\graphic.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1743355233 source:c:\users\user\desktop\c++\funrace_1.1\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	"OANTUXI.h"
+	"XUCXAC.h"
+	<SDL_image.h>
+
+1743238077 c:\users\user\desktop\c++\funrace_1.1\oantuxi.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL.h>
+
+1743349824 c:\users\user\desktop\c++\funrace_1.1\xucxac.h
+	<iostream>
+	<SDL.h>
+
+1743238278 source:c:\users\user\desktop\c++\funrace_1.1\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1743402096 source:c:\users\user\desktop\c++\funrace_1.1\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<vector>
+	<SDL_image.h>
+
+1744603539 source:c:\users\user\desktop\c++\funrace_1.2\graphic.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL_image.h>
+
+1744603493 c:\users\user\desktop\c++\funrace_1.2\graphic.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<map>
+
+1744602693 source:c:\users\user\desktop\c++\funrace_1.2\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	"OANTUXI.h"
+	"XUCXAC.h"
+	<SDL_image.h>
+
+1743238077 c:\users\user\desktop\c++\funrace_1.2\oantuxi.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL.h>
+
+1744602055 c:\users\user\desktop\c++\funrace_1.2\xucxac.h
+	<iostream>
+	<SDL.h>
+
+1743238278 source:c:\users\user\desktop\c++\funrace_1.2\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+
+1744602055 source:c:\users\user\desktop\c++\funrace_1.2\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<vector>
+	<SDL_image.h>
+
+1744603539 source:c:\users\user\desktop\c++\funrace_1.3\graphic.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL_image.h>
+
+1744603493 c:\users\user\desktop\c++\funrace_1.3\graphic.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<map>
+
+1745943142 source:c:\users\user\desktop\c++\funrace_1.3\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	"OANTUXI.h"
+	"XUCXAC.h"
+	"Audio.h"
+	<SDL_image.h>
+
+1743238077 c:\users\user\desktop\c++\funrace_1.3\oantuxi.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL.h>
+
+1744602055 c:\users\user\desktop\c++\funrace_1.3\xucxac.h
+	<iostream>
+	<SDL.h>
+
+1745937731 source:c:\users\user\desktop\c++\funrace_1.3\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"Audio.h"
+
+1745941904 source:c:\users\user\desktop\c++\funrace_1.3\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<vector>
+	<SDL_image.h>
+	"Audio.h"
+
+1745935536 source:c:\users\user\desktop\c++\funrace_1.3\audio.cpp
+	"Audio.h"
+	<iostream>
+
+1745935489 c:\users\user\desktop\c++\funrace_1.3\audio.h
+	<SDL_mixer.h>
+
+1746328426 source:c:\users\user\desktop\c++\funrace_1.4\audio.cpp
+	"Audio.h"
+	<iostream>
+
+1746114353 c:\users\user\desktop\c++\funrace_1.4\audio.h
+	<SDL_mixer.h>
+
+1746328154 source:c:\users\user\desktop\c++\funrace_1.4\graphic.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL_image.h>
+
+1744603493 c:\users\user\desktop\c++\funrace_1.4\graphic.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<map>
+
+1746344512 source:c:\users\user\desktop\c++\funrace_1.4\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	"OANTUXI.h"
+	"XUCXAC.h"
+	"Audio.h"
+	<SDL_image.h>
+
+1743238077 c:\users\user\desktop\c++\funrace_1.4\oantuxi.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL.h>
+
+1744602055 c:\users\user\desktop\c++\funrace_1.4\xucxac.h
+	<iostream>
+	<SDL.h>
+
+1746331006 source:c:\users\user\desktop\c++\funrace_1.4\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"Audio.h"
+
+1746332996 source:c:\users\user\desktop\c++\funrace_1.4\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<vector>
+	<SDL_image.h>
+	"Audio.h"
+
