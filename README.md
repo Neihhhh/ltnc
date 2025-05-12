@@ -21,4 +21,6 @@
 - <img src="https://github.com/user-attachments/assets/ca968286-5f0a-4319-a0b9-0fd2bf73d2dc" width="25" >: cổng
 - <img src="https://github.com/user-attachments/assets/095985aa-bff6-4242-9808-501156dfa7e3" width="25" >: đi sau tiến 2 bước
 - <img src="https://github.com/user-attachments/assets/7a016c9d-c271-44b6-8c12-cf125620c4e7" width="25" >: nhân đôi số xúc sắc 
-- <img src="https://github.com/user-attachments/assets/2885a209-0715-40c5-9100-b04317d4b3f5" width="25" >: nhân đôi số xúc sắc 
+- <img src="https://github.com/user-attachments/assets/2885a209-0715-40c5-9100-b04317d4b3f5" width="25" >: nhân đôi số xúc sắc
+- <img src="https://github.com/user-attachments/assets/749126a8-1298-4d1d-b41a-2767737f99b6" width="25" >: tiến 4 bước 
+
