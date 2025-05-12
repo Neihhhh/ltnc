@@ -13,5 +13,5 @@
 - ấn nút 'space' dể lắc xúc sắc
 - ai về đích trước sẽ thắng
 ## CÁC Ô ĐẶC BIỆT
-   <img src="https://github.com/user-attachments/assets/9d2a8bae-25ea-401c-baf5-9df89d008751" width="150" alt="Boost image"/>: đi thêm 2 ô
+   <img src="https://github.com/user-attachments/assets/9d2a8bae-25ea-401c-baf5-9df89d008751" width="50" alt="Boost image"/>: đi thêm 2 ô
  
