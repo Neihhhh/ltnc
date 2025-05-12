@@ -1,5 +1,5 @@
 # Funrace
-## Tác giả
+  ## TÁC GIẢ
 - **Họ tên:** Lê Minh Hiển
 - **Lớp khoá học:** QH-2024-I/CQ-I-CS4
 - **Mã sinh viên:** 24021464
@@ -13,5 +13,5 @@
 - ấn nút 'space' dể lắc xúc sắc
 - ai về đích trước sẽ thắng
 ## CÁC Ô ĐẶC BIỆT
-  ![boost](https://github.com/user-attachments/assets/9d2a8bae-25ea-401c-baf5-9df89d008751) : đi thêm 2 ô
+   <img src="https://github.com/user-attachments/assets/9d2a8bae-25ea-401c-baf5-9df89d008751" width="150" alt="Boost image"/>: đi thêm 2 ô
  
