@@ -13,7 +13,12 @@
 - ấn nút 'space' dể lắc xúc sắc
 - ai về đích trước sẽ thắng
 ## CÁC Ô ĐẶC BIỆT
-   <img src="https://github.com/user-attachments/assets/9d2a8bae-25ea-401c-baf5-9df89d008751" width="25" >: đi thêm 2 ô
-   <img src="https://github.com/user-attachments/assets/c3545d87-5ca3-49fb-82a3-af9aba3c4ede" width="25" >: lùi 2 ô
- 
-
+- <img src="https://github.com/user-attachments/assets/9d2a8bae-25ea-401c-baf5-9df89d008751" width="25" >: đi thêm 2 ô
+- <img src="https://github.com/user-attachments/assets/c3545d87-5ca3-49fb-82a3-af9aba3c4ede" width="25" >: lùi 2 ô
+- <img src="https://github.com/user-attachments/assets/0d29d653-98fa-46df-a7e3-22b68f449e0f" width="25" >: nếu đi đầu lùi 3 ô
+- <img src="https://github.com/user-attachments/assets/9b8f05dc-eb94-486b-8e25-ad270cc99daf" width="25" >: lùi 10 ô
+- <img src="https://github.com/user-attachments/assets/1ca0e273-18bb-4573-89cd-5a33e9ab68fc" width="25" >: dịch chuyển đến cổng
+- <img src="https://github.com/user-attachments/assets/ca968286-5f0a-4319-a0b9-0fd2bf73d2dc" width="25" >: cổng
+- <img src="https://github.com/user-attachments/assets/095985aa-bff6-4242-9808-501156dfa7e3" width="25" >: đi sau tiến 2 bước
+- <img src="https://github.com/user-attachments/assets/7a016c9d-c271-44b6-8c12-cf125620c4e7" width="25" >: nhân đôi số xúc sắc 
+- <img src="https://github.com/user-attachments/assets/2885a209-0715-40c5-9100-b04317d4b3f5" width="25" >: nhân đôi số xúc sắc 
