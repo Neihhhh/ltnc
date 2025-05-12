@@ -31,9 +31,10 @@
 
 - <img src="https://github.com/user-attachments/assets/7a016c9d-c271-44b6-8c12-cf125620c4e7" width="25" >: nhân đôi số xúc sắc 
 
-- <img src="https://github.com/user-attachments/assets/2885a209-0715-40c5-9100-b04317d4b3f5" width="25" >: nhân đôi số xúc sắc
+- <img src="https://github.com/user-attachments/assets/2885a209-0715-40c5-9100-b04317d4b3f5" width="25" >: mất lượt
 
-- <img src="https://github.com/user-attachments/assets/749126a8-1298-4d1d-b41a-2767737f99b6" width="25" >: 
+- <img src="https://github.com/user-attachments/assets/749126a8-1298-4d1d-b41a-2767737f99b6" width="25" >: nếu đi đầu di thêm 3 ô
 
-- <img src="https://github.com/user-attachments/assets/d6eb6789-156c-48f2-83f7-d637f4b3ed23" width="25" >: mất lượt
+- <img src="https://github.com/user-attachments/assets/cbd0bc5a-ac8b-4a76-990b-361809ae1ab1" width="25" >: hiệu ứng ngẫu nhiên
+
 
