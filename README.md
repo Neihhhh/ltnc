@@ -38,4 +38,10 @@
 - <img src="https://github.com/user-attachments/assets/cbd0bc5a-ac8b-4a76-990b-361809ae1ab1" width="25" >: hiệu ứng ngẫu nhiên
 
 - <img src="https://github.com/user-attachments/assets/5fdf389e-f35f-4ac3-8edd-17fac7df864f" width="25" >: đổi chỗ 2 người chơi
-
+## CÁC NGUỒN THAM KHẢO
+- https://itch.io/
+- https://pixlr.com/vn/image-generator/
+- https://thenounproject.com/icon/shift-right-1083564/
+- https://freesound.org/
+- https://www.youtube.com/watch?v=drwhYHkjSyk
+- 
