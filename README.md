@@ -10,7 +10,7 @@
 ## CÁCH CHƠI
 - đầu tiên ấn 1 trong 3 biểu tượng để oẳn tù xì
 - nếu thắng sẽ đc lắc xúc sắc trước và ngược lại
-- ấn nút 'space' dể lắc xúc sắc
+- ấn nút để |space| lắc xúc sắc
 - ai về đích trước sẽ thắng
 ## CÁC Ô ĐẶC BIỆT
 - <img src="https://github.com/user-attachments/assets/9d2a8bae-25ea-401c-baf5-9df89d008751" width="25" >: đi thêm 2 ô
