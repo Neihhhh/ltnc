@@ -31,7 +31,7 @@ int main(int argc, char* argv[]) {
     while (running){
         int gameState = -1;
         double resultOTX = 0.5;
-        int playerStep = 38, computerStep = 0;
+        int playerStep = 0, computerStep = 0;
         SDL_Event e;
         bool skipTurnPlayer=false;
         bool skipTurnComputer=false;

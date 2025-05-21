@@ -500,3 +500,71 @@
 	<SDL_image.h>
 	"Audio.h"
 
+1746328426 source:c:\users\user\desktop\c++\funrace_complete\audio.cpp
+	"Audio.h"
+	<iostream>
+
+1746114353 c:\users\user\desktop\c++\funrace_complete\audio.h
+	<SDL_mixer.h>
+
+1746328154 source:c:\users\user\desktop\c++\funrace_complete\graphic.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL_image.h>
+
+1744603493 c:\users\user\desktop\c++\funrace_complete\graphic.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<map>
+
+1746448291 source:c:\users\user\desktop\c++\funrace_complete\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	"OANTUXI.h"
+	"XUCXAC.h"
+	"Audio.h"
+	<SDL_image.h>
+
+1743238077 c:\users\user\desktop\c++\funrace_complete\oantuxi.h
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL.h>
+
+1744602055 c:\users\user\desktop\c++\funrace_complete\xucxac.h
+	<iostream>
+	<SDL.h>
+
+1746331006 source:c:\users\user\desktop\c++\funrace_complete\oantuxi.cpp
+	"OANTUXI.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"Audio.h"
+
+1746344987 source:c:\users\user\desktop\c++\funrace_complete\xucxac.cpp
+	<iostream>
+	"XUCXAC.h"
+	<cstdlib>
+	<ctime>
+	"graphic.h"
+	<SDL.h>
+	<vector>
+	<SDL_image.h>
+	"Audio.h"
+
